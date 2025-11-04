@@ -1,0 +1,53 @@
+{
+    "report": {
+        "pass": 0,
+        "chunk": 1,
+        "chunkPos": {
+            "l0": "final_report",
+            "l1": null,
+            "l2": null
+        },
+        "progress_perc": 100,
+        "scan_tables": 98,
+        "scan_rows": 26628,
+        "scan_cells": 174447,
+        "updt_tables": 9,
+        "updt_rows": 21797,
+        "updt_cells": 21803,
+        "errsql": [],
+        "errser": [],
+        "errkey": [],
+        "errsql_sum": 0,
+        "errser_sum": 0,
+        "errkey_sum": 0,
+        "profile_start": 1762276139.5918309688568115234375,
+        "profile_end": 1762276144.041987895965576171875,
+        "time": "4.4502 sec.",
+        "err_all": 0,
+        "warn_all": 0,
+        "warnlist": []
+    },
+    "cTableParams": null,
+    "replaceData": [
+        {
+            "id": 0,
+            "prority": 12,
+            "scope": [
+                "___!GLOBAL!___!SCOPE!___"
+            ],
+            "type": "path",
+            "search": "\/var\/www\/vhosts\/dev-tictac.com\/httpdocs\/bravobravo2parteback",
+            "replace": "\/home\/autobusv2\/public_html"
+        },
+        {
+            "id": 1,
+            "prority": 12,
+            "scope": [
+                "___!GLOBAL!___!SCOPE!___"
+            ],
+            "type": "urlnd",
+            "search": "https:\/\/dev-tictac.com\/bravobravo2parteback",
+            "replace": "https:\/\/v2.autobusmedinaazahara.com"
+        }
+    ]
+}

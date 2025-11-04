@@ -1,0 +1,54 @@
+{
+    "CL_-=_-=": "DUP_Extraction",
+    "zip_filetime": "current",
+    "archive_action": "donothing",
+    "archive_engine": "ziparchivechunking",
+    "extractonStart": 1762276094.162149906158447265625,
+    "chunkStart": 1762276131.4838058948516845703125,
+    "root_path": "\/home\/autobusv2\/public_html\/",
+    "archive_path": "\/home\/autobusv2\/public_html\/ult2_424a7dd575a655229581_20251104165923_archive.zip",
+    "ajax1_error_level": 32767,
+    "dawn_status": null,
+    "archive_offset": 14701,
+    "do_chunking": false,
+    "chunkedExtractionCompleted": false,
+    "num_files": 16095,
+    "sub_folder_archive": "",
+    "max_size_extract_at_a_time": 2097152,
+    "zip_arc_chunk_notice_no": -1,
+    "zip_arc_chunk_notice_change_last_time": 0,
+    "zip_arc_chunks_extract_rates": [
+        10950629.46156170032918453216552734375,
+        9743251.34148475341498851776123046875,
+        10523480.9688554219901561737060546875,
+        10499075.38540421985089778900146484375,
+        10362916.40310244075953960418701171875,
+        9352645.21315971948206424713134765625,
+        9352321.7664831839501857757568359375,
+        9553242.9635469205677509307861328125
+    ],
+    "archive_items_count": 15488,
+    "filters": {
+        "CL_-=_-=": "Duplicator\\Installer\\Core\\Deploy\\Files\\Filters",
+        "files": [
+            "ult2_424a7dd575a655229581_20251104165923_installer-backup.php"
+        ],
+        "dirsWithoutChilds": [],
+        "dirs": [
+            "dup-installer"
+        ]
+    },
+    "removeFilters": {
+        "CL_-=_-=": "Duplicator\\Installer\\Core\\Deploy\\Files\\Filters",
+        "files": [
+            "\/home\/autobusv2\/public_html\/ult2_424a7dd575a655229581_20251104165923_installer-backup.php",
+            "\/home\/autobusv2\/public_html\/ult2_424a7dd575a655229581_20251104165923_archive.zip",
+            "\/home\/autobusv2\/public_html\/installer.php",
+            "\/home\/autobusv2\/public_html\/dup-installer-bootlog__79e4e1f-04165923.txt"
+        ],
+        "dirsWithoutChilds": [],
+        "dirs": [
+            "\/home\/autobusv2\/public_html\/dup-installer"
+        ]
+    }
+}
